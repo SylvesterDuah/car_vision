@@ -1,0 +1,5 @@
+env
+opencv
+NumPy
+Time
+flask
